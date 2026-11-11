@@ -1,4 +1,0 @@
-User-agent: *
-Allow: /
-
-Sitemap: https://casalimasin.github.io/sitemap.xml
